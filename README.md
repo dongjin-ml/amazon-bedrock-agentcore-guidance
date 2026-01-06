@@ -9,32 +9,32 @@ Amazon Bedrock AgentCore는 프로덕션급 AI 에이전트를 구축하고 운�
 ## 📚 튜토리얼 시리즈
 
 ### 1. AgentCore Runtime
-- **담당자**: 김대근
+- **담당자**: [김대근](https://www.linkedin.com/in/daekeun-kim/)
 - **영상**: https://skillbuilder.aws/learn/SYRTSAYTCE/agentcore-identity--/UHB2CFK5TF
 - **블로그**: https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-runtime-easy-learn-start/
 
 ### 2. Code Interpreter & Browser
-- **담당자**: 박규태
+- **담당자**: [박규태](https://www.linkedin.com/in/ren-ai-ssance/)
 - **영상**: https://skillbuilder.aws/learn/WJCD4RD411/agentcore-code-interpreter-browser--/MJB26KNV67
 - **블로그**: https://aws.amazon.com/ko/blogs/tech/agentcore-built-in-tools-agentic-ai/
 
 ### 3. Identity
-- **담당자**: 이다은
+- **담당자**: [이다은](https://www.linkedin.com/in/daeun-lee-27559519a/)
 - **영상**: https://skillbuilder.aws/learn/SYRTSAYTCE/agentcore-identity--/UHB2CFK5TF
 - **블로그**: https://aws.amazon.com/ko/blogs/tech/building-secure-agent-with-agentcore-identity/
 
 ### 4. Memory
-- **담당자**: 소찬호
+- **담당자**: [소찬호](https://www.linkedin.com/in/chanho-soh-a48844155/)
 - **영상**: https://skillbuilder.aws/learn/S4C9UTQCYW/agentcore-memory--/CHB76HS5T3
 - **블로그**: https://aws.amazon.com/ko/blogs/tech/building-agentic-ai-with-agentcore-memory/
 
 ### 5. Gateway
-- **담당자**: 이유정
+- **담당자**: [이유정](https://www.linkedin.com/in/yoo-lee/)
 - **영상**: https://skillbuilder.aws/learn/Y7KK9FPKXJ/agentcore-gateway--/HK35DH7SDT
 - **블로그**: https://aws.amazon.com/ko/blogs/tech/bedrock-agentcore-gateway/
 
 ### 6. Observability
-- **담당자**: 장동진
+- **담당자**: [장동진](https://www.linkedin.com/in/dongjin-jang-kr/)
 - **영상**: https://skillbuilder.aws/learn/HMUVPMEBTC/agentcore-observability--/4JVZ57ZSSE
 - **블로그**: https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-observability-production-ready-ai-agent/
 
