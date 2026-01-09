@@ -10,7 +10,7 @@ Amazon Bedrock AgentCore는 프로덕션급 AI 에이전트를 구축하고 운�
 
 ### 1. AgentCore Runtime
 - **담당자**: [김대근](https://www.linkedin.com/in/daekeun-kim/)
-- **영상**: https://skillbuilder.aws/learn/SYRTSAYTCE/agentcore-identity--/UHB2CFK5TF
+- **영상**: https://skillbuilder.aws/learn/FGVC1UZ2RE/agentcore-runtime--/1XDJ7XPY76
 - **블로그**: https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-runtime-easy-learn-start/
 
 ### 2. Code Interpreter & Browser
